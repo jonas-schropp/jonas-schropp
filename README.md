@@ -6,5 +6,5 @@ University Clinic for Visceral Surgery and Medicine, at the Inselspital Universi
 
 I'm mostly working with R. Currently trying to dig deaper into Calculus and learning basic web dev.<br>
 
-You can read more about me on my [website](https://www.jonas-schropp.github.io), or find me on [LinkedIn](https://www.linkedin.com/in/jonasschropp/?locale=en_US) or 
+You can read more about me on my [website](https://jonas-schropp.github.io/), or find me on [LinkedIn](https://www.linkedin.com/in/jonasschropp/?locale=en_US) or 
 [Researchgate](https://www.researchgate.net/profile/Jonas-Schropp).
