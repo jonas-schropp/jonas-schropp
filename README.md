@@ -1,8 +1,7 @@
 # Hi everyone
 
 I'm a statistician and data scientist collaborating with the [Department of Hepatology](https://www.swissliver.ch/en/home), 
-University Clinic for Visceral Surgery and Medicine, at the Inselspital University-Hospital Bern in Switzerland as well as 
-[Invenion](https://www.invenion.io/en/uber-uns). <br>
+University Clinic for Visceral Surgery and Medicine, at the Inselspital University-Hospital Bern in Switzerland. <br>
 
 I'm mostly working with R. Currently working on way too many open source packages than I could realistically handle all at once.<br>
 
